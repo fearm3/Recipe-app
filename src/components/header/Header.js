@@ -6,7 +6,7 @@ const Header = ({ setQuery, query, getData, mealTypes, setMeal, meal }) => {
   return (
     <div>
       <HeaderContainer>
-        <MainHeader>Food App</MainHeader>
+        <MainHeader>Write a food</MainHeader>
         <Form
           setQuery={setQuery}
           query={query}

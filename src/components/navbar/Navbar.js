@@ -20,7 +20,7 @@ const Navbar = () => {
 
         <Menu isOpen={isOpen}>
           <MenuLink to="/about">About</MenuLink>
-          <MenuLink to={{ pathname: "https://github.com/fearm3" }}>
+          <MenuLink to={{ pathname: "https://github.com/fearm3/Recipe-app" }}>
             GitHub
           </MenuLink>
           <MenuLink to="/login">Logout</MenuLink>
